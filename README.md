@@ -7,3 +7,7 @@ This repository is built step by step in the tutorial.
 In this step we test the Git Editor.
 
 This line is here to test the pull function.
+
+This is here to Test my Git knowledge.
+
+Random Numbers: 123456657789
