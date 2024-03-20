@@ -10,4 +10,7 @@ This line is here to test the pull function.
 
 This is here to Test my Git knowledge.
 
+
+NewLine for testing purposes
+
 Random Numbers: 123456657789
